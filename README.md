@@ -1,3 +1,5 @@
+<img src="https://github.com/randypitcherii/pipe_of_the_living_dead/blob/master/images/Hashmap_Pipe_of_the_Living_Dead.png" width="910" height="445"/>
+
 # pipe_of_the_living_dead
 This repository holds all materials for Team Hashmap from the 2019 Devon Hackathon. The project attempts to automatically identify and accurately count the number of well pipe segments from an image.
 
