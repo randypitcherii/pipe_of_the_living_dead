@@ -11,7 +11,7 @@ Today, 2 people do a manual count of the pipe segments and then compare results 
 
 ## **Why Is This Difficult**
 
--Individually tagged pipe (durability issues, high $)
+-Individually tagged pipe not feasible (RFID tag durability issues, high $, difficult to justify)
 
 -Pipe racks are not even or uniform and the pipe is layered
 
