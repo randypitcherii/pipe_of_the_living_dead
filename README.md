@@ -11,11 +11,11 @@ Today, 2 people do a manual count of the pipe segments and then compare results 
 
 ## **Why Is This Difficult**
 
--Individually tagged pipe not feasible (RFID tag durability issues, high $, difficult to justify)
+- Individually tagged pipe not feasible (RFID tag durability issues, high $, difficult to justify)
 
--Pipe racks are not even or uniform and the pipe is layered
+- Pipe racks are not even or uniform and the pipe is layered
 
--Different pipe locations in rack (hiding in shadows based on the layering and uneven stacking)
+- Different pipe locations in rack (hiding in shadows based on the layering and uneven stacking)
 
 <img src="images/pipe_small.jpg" width="410" height="245"/>
 
@@ -23,23 +23,23 @@ Today, 2 people do a manual count of the pipe segments and then compare results 
 
 ### **Application / Solution Requirements**
 
--Runs on a mobile platform
+- Runs on a mobile platform
 
--Provides an accurate count (including pipe in shadows!)
+- Provides an accurate count (including pipe in shadows!)
 
--Simple and easy to use
+- Simple and easy to use
 
--Captures different "racks" of tubulars including adding them together or keeping them separate
+- Captures different "racks" of tubulars including adding them together or keeping them separate
 
--Keeps a history of "counts" with "rack" or description
+- Keeps a history of "counts" with "rack" or description
 
 ### **Bonus Points For:**
 
--Add entry for average joint length by multiplying by count to get total length of tubulars
+- Add entry for average joint length by multiplying by count to get total length of tubulars
 
--Dimensional calculator (approximate outside diameter of pipe)
+- Dimensional calculator (approximate outside diameter of pipe)
 
--Classify how many pieces have thread protectors installed
+- Classify how many pieces have thread protectors installed
 
 ## **Our Solution Approach**
 
