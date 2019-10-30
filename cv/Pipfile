@@ -12,6 +12,7 @@ scikit-learn = "*"
 ipython = "*"
 pandas = "*"
 jupyter = "*"
+opencv-python = "*"
 
 [dev-packages]
 
